@@ -26,3 +26,13 @@
 Aktuell geht es nur langsam vorran. Der Kurs richtet sich aktuell wirklich an Anfänger. Skippen mag ich aber noch nicht.
 
 **Link zur Arbeit:** [Tag 3](https://github.com/nurmatthias/100DaysOfCode/tree/main/day3)
+
+
+### Tag 4: 23. Februar 2021
+
+**Heutiger Fortschritt:** Randomizer und Listen
+
+**Gedanken:** Das Random-Modul gefällt mir ganz gut, finde ich fassbarer als Math.random() (ja hat sich auch geändert).
+Sind Listen wirklich die goto Datenstruktur? Bis jetzt habe ich noch nicht durchblickt wie diese implementiert sind, muss ich noch nachholen.
+
+**Link zur Arbeit:** [Tag 4](https://github.com/nurmatthias/100DaysOfCode/tree/main/day4)
