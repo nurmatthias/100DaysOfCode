@@ -9,6 +9,7 @@
 **Link zur Arbeit:** [Tag 1](https://github.com/nurmatthias/100DaysOfCode/tree/main/day1)
 
 
+&nbsp;
 ### Tag 2: 21. Februar 2021
 
 **Heutiger Fortschritt:** Datentypen und Mathegrundlagen
@@ -18,6 +19,7 @@
 **Link zur Arbeit:** [Tag 2](https://github.com/nurmatthias/100DaysOfCode/tree/main/day2)
 
 
+&nbsp;
 ### Tag 3: 22. Februar 2021
 
 **Heutiger Fortschritt:** if/else
@@ -28,6 +30,7 @@ Aktuell geht es nur langsam vorran. Der Kurs richtet sich aktuell wirklich an An
 **Link zur Arbeit:** [Tag 3](https://github.com/nurmatthias/100DaysOfCode/tree/main/day3)
 
 
+&nbsp;
 ### Tag 4: 23. Februar 2021
 
 **Heutiger Fortschritt:** Randomizer und Listen
@@ -36,3 +39,14 @@ Aktuell geht es nur langsam vorran. Der Kurs richtet sich aktuell wirklich an An
 Sind Listen wirklich die goto Datenstruktur? Bis jetzt habe ich noch nicht durchblickt wie diese implementiert sind, muss ich noch nachholen.
 
 **Link zur Arbeit:** [Tag 4](https://github.com/nurmatthias/100DaysOfCode/tree/main/day4)
+
+
+&nbsp;
+### Tag 5: 24. Februar 2021
+
+**Heutiger Fortschritt:** for-Schleifen
+
+**Gedanken:** for-Schleifen sind for-Schleifen... vergleichbar Java foreach.
+Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebigen Eintrag zu wählen
+
+**Link zur Arbeit:** [Tag 5](https://github.com/nurmatthias/100DaysOfCode/tree/main/day5)
