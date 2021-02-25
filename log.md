@@ -50,3 +50,13 @@ Sind Listen wirklich die goto Datenstruktur? Bis jetzt habe ich noch nicht durch
 Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebigen Eintrag zu wählen
 
 **Link zur Arbeit:** [Tag 5](https://github.com/nurmatthias/100DaysOfCode/tree/main/day5)
+
+
+&nbsp;
+### Tag 6: 25. Februar 2021
+
+**Heutiger Fortschritt:** Reeborg und while-Schleifen
+
+**Gedanken:** Heute gab es ein paar Übungen mit Reeborg. Vergleichbar mit der Schildkröte oder dem Java-Hamster. Ja ganz nett, aber auch nicht besonders herrausfordernd.
+
+**Link zur Arbeit:** [Tag 6](https://github.com/nurmatthias/100DaysOfCode/tree/main/day6)
