@@ -60,3 +60,14 @@ Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebi
 **Gedanken:** Heute gab es ein paar Übungen mit Reeborg. Vergleichbar mit der Schildkröte oder dem Java-Hamster. Ja ganz nett, aber auch nicht besonders herrausfordernd.
 
 **Link zur Arbeit:** [Tag 6](https://github.com/nurmatthias/100DaysOfCode/tree/main/day6)
+
+
+&nbsp;
+### Tag 7: 26. Februar 2021
+
+**Heutiger Fortschritt:** Hangman!
+
+**Gedanken:** Habe mein erstes Spiel geschrieben. 
+Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermutlich einen anderen Weg gewählt. Hat Spaß gemacht.
+
+**Link zur Arbeit:** [Tag 7](https://github.com/nurmatthias/100DaysOfCode/tree/main/day7)
