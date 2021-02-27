@@ -71,3 +71,13 @@ Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebi
 Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermutlich einen anderen Weg gewählt. Hat Spaß gemacht.
 
 **Link zur Arbeit:** [Tag 7](https://github.com/nurmatthias/100DaysOfCode/tree/main/day7)
+
+
+&nbsp;
+### Tag 8: 27. Februar 2021
+
+**Heutiger Fortschritt:** Weiter mit Funktionen
+
+**Gedanken:** Die Umsetzung der Caeser-Cypher hat Spaß gemacht, auch wenn die Sache mit den Funktionsparametern nicht so spannend war.
+
+**Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day8)
