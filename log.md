@@ -86,8 +86,8 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 &nbsp;
 ### Tag 9: 28. Februar 2021
 
-**Heutiger Fortschritt:** Weiter mit Funktionen
+**Heutiger Fortschritt:** Dictionaries
 
-**Gedanken:** Die Umsetzung der Caeser-Cypher hat Spaß gemacht, auch wenn die Sache mit den Funktionsparametern nicht so spannend war.
+**Gedanken:** Heute gab es ein neues Konzept: Maps. Spannend ist, dass Pythen wirklich alles zuläßt was man in Listen oder Dictionaries reinsteckt ohne zu murren. Dadurch lassen sich einiege Sachen weniger technisch verdeutlichen.
 
-**Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day8)
+**Link zur Arbeit:** [Tag 9](https://github.com/nurmatthias/100DaysOfCode/tree/main/day9)
