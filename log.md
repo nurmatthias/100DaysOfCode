@@ -81,3 +81,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Die Umsetzung der Caeser-Cypher hat Spaß gemacht, auch wenn die Sache mit den Funktionsparametern nicht so spannend war.
 
 **Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day8)
+
+
+&nbsp;
+### Tag 9: 28. Februar 2021
+
+**Heutiger Fortschritt:** Weiter mit Funktionen
+
+**Gedanken:** Die Umsetzung der Caeser-Cypher hat Spaß gemacht, auch wenn die Sache mit den Funktionsparametern nicht so spannend war.
+
+**Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day8)
