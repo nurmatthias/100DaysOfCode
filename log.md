@@ -6,7 +6,7 @@
 
 **Gedanken:** Ich möchte mich endlich mit Python mehr beschäftigen und das nicht weiter vor mit her schieben. Wärend dieser Zeit werde ich einen Kurs von Udemy 100 Days of Pythen durch arbeiten.
 
-**Link zur Arbeit:** [Tag 1](https://github.com/nurmatthias/100DaysOfCode/tree/main/day1)
+**Link zur Arbeit:** [Tag 1](https://github.com/nurmatthias/100DaysOfCode/tree/main/day01)
 
 
 &nbsp;
@@ -16,7 +16,7 @@
 
 **Gedanken:** Die Grundlagen sind leicht. Sind in Java nicht anders, vielleicht hier und da etwas unterschiedlich was Schreibweisen und Verhalten angehet, aber grundsätzlich ähnlich.
 
-**Link zur Arbeit:** [Tag 2](https://github.com/nurmatthias/100DaysOfCode/tree/main/day2)
+**Link zur Arbeit:** [Tag 2](https://github.com/nurmatthias/100DaysOfCode/tree/main/day02)
 
 
 &nbsp;
@@ -27,7 +27,7 @@
 **Gedanken:** Kannte ich schon. elif ist nett, weil weniger zu schreiben und and/or/not lässt sich besser lesen als &&.
 Aktuell geht es nur langsam vorran. Der Kurs richtet sich aktuell wirklich an Anfänger. Skippen mag ich aber noch nicht.
 
-**Link zur Arbeit:** [Tag 3](https://github.com/nurmatthias/100DaysOfCode/tree/main/day3)
+**Link zur Arbeit:** [Tag 3](https://github.com/nurmatthias/100DaysOfCode/tree/main/day03)
 
 
 &nbsp;
@@ -38,7 +38,7 @@ Aktuell geht es nur langsam vorran. Der Kurs richtet sich aktuell wirklich an An
 **Gedanken:** Das Random-Modul gefällt mir ganz gut, finde ich fassbarer als Math.random() (ja hat sich auch geändert).
 Sind Listen wirklich die goto Datenstruktur? Bis jetzt habe ich noch nicht durchblickt wie diese implementiert sind, muss ich noch nachholen.
 
-**Link zur Arbeit:** [Tag 4](https://github.com/nurmatthias/100DaysOfCode/tree/main/day4)
+**Link zur Arbeit:** [Tag 4](https://github.com/nurmatthias/100DaysOfCode/tree/main/day04)
 
 
 &nbsp;
@@ -49,7 +49,7 @@ Sind Listen wirklich die goto Datenstruktur? Bis jetzt habe ich noch nicht durch
 **Gedanken:** for-Schleifen sind for-Schleifen... vergleichbar Java foreach.
 Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebigen Eintrag zu wählen
 
-**Link zur Arbeit:** [Tag 5](https://github.com/nurmatthias/100DaysOfCode/tree/main/day5)
+**Link zur Arbeit:** [Tag 5](https://github.com/nurmatthias/100DaysOfCode/tree/main/day05)
 
 
 &nbsp;
@@ -59,7 +59,7 @@ Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebi
 
 **Gedanken:** Heute gab es ein paar Übungen mit Reeborg. Vergleichbar mit der Schildkröte oder dem Java-Hamster. Ja ganz nett, aber auch nicht besonders herrausfordernd.
 
-**Link zur Arbeit:** [Tag 6](https://github.com/nurmatthias/100DaysOfCode/tree/main/day6)
+**Link zur Arbeit:** [Tag 6](https://github.com/nurmatthias/100DaysOfCode/tree/main/day06)
 
 
 &nbsp;
@@ -70,7 +70,7 @@ Das random-Modul hat schöne Funktionen um Listen zu shuffeln oder einen beliebi
 **Gedanken:** Habe mein erstes Spiel geschrieben. 
 Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermutlich einen anderen Weg gewählt. Hat Spaß gemacht.
 
-**Link zur Arbeit:** [Tag 7](https://github.com/nurmatthias/100DaysOfCode/tree/main/day7)
+**Link zur Arbeit:** [Tag 7](https://github.com/nurmatthias/100DaysOfCode/tree/main/day07)
 
 
 &nbsp;
@@ -80,7 +80,7 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 
 **Gedanken:** Die Umsetzung der Caeser-Cypher hat Spaß gemacht, auch wenn die Sache mit den Funktionsparametern nicht so spannend war.
 
-**Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day8)
+**Link zur Arbeit:** [Tag 8](https://github.com/nurmatthias/100DaysOfCode/tree/main/day08)
 
 
 &nbsp;
@@ -90,4 +90,14 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 
 **Gedanken:** Heute gab es ein neues Konzept: Maps. Spannend ist, dass Pythen wirklich alles zuläßt was man in Listen oder Dictionaries reinsteckt ohne zu murren. Dadurch lassen sich einiege Sachen weniger technisch verdeutlichen.
 
-**Link zur Arbeit:** [Tag 9](https://github.com/nurmatthias/100DaysOfCode/tree/main/day9)
+**Link zur Arbeit:** [Tag 9](https://github.com/nurmatthias/100DaysOfCode/tree/main/day09)
+
+
+&nbsp;
+### Tag 10: 01. März 2021
+
+**Heutiger Fortschritt:** Funktionen mit Ausgabe
+
+**Gedanken:** Gibt nicht viel zu sagen, Funktionen können Werte zurück geben, mit return. Nichts neues. 
+
+**Link zur Arbeit:** [Tag 10](https://github.com/nurmatthias/100DaysOfCode/tree/main/day10)
