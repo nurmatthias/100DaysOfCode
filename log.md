@@ -101,3 +101,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Gibt nicht viel zu sagen, Funktionen können Werte zurück geben, mit return. Nichts neues. 
 
 **Link zur Arbeit:** [Tag 10](https://github.com/nurmatthias/100DaysOfCode/tree/main/day10)
+
+
+&nbsp;
+### Tag 11: 02. März 2021
+
+**Heutiger Fortschritt:** Black Jack
+
+**Gedanken:** Ok, das war nicht ganz einfach. Vorallem den Code sauber zu strukturieren. Hier arbeite ich an Grundsätzlichem mit dem ich sowieso schon Probleme hatte, ist spannend.
+
+**Link zur Arbeit:** [Tag 11](https://github.com/nurmatthias/100DaysOfCode/tree/main/day11)
