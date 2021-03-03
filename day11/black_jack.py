@@ -29,9 +29,11 @@ player_hand = []
 cpu_hand = []
 
 def deal_card(no_of_cards):
+    """Returns a random card from the deck."""
     return random.choices(cards, k=no_of_cards)
 
 def calculate_score(hand):
+    """Calculates the score of a given hand."""
     score = 0
     for card in hand:
         score += card

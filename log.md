@@ -111,3 +111,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Ok, das war nicht ganz einfach. Vorallem den Code sauber zu strukturieren. Hier arbeite ich an Grundsätzlichem mit dem ich sowieso schon Probleme hatte, ist spannend.
 
 **Link zur Arbeit:** [Tag 11](https://github.com/nurmatthias/100DaysOfCode/tree/main/day11)
+
+
+&nbsp;
+### Tag 12: 03. März 2021
+
+**Heutiger Fortschritt:** Scope und GuessANumber
+
+**Gedanken:** Das es keinen block scope gibt finde ich doch eher gewöhnungsbedürftig. Schön ist der schutz von globalen Variablen die extra als solche markiert werden müssen um sie zu verändern.
+
+**Link zur Arbeit:** [Tag 12](https://github.com/nurmatthias/100DaysOfCode/tree/main/day12)
