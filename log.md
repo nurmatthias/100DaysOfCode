@@ -121,3 +121,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Das es keinen block scope gibt finde ich doch eher gewöhnungsbedürftig. Schön ist der schutz von globalen Variablen die extra als solche markiert werden müssen um sie zu verändern.
 
 **Link zur Arbeit:** [Tag 12](https://github.com/nurmatthias/100DaysOfCode/tree/main/day12)
+
+
+&nbsp;
+### Tag 13: 04. März 2021
+
+**Heutiger Fortschritt:** Debugging
+
+**Gedanken:** Ok, das war unnötig, aber ok. Der Debugger von VS Code ist ganz gut.
+
+**Link zur Arbeit:** [Tag 13](https://github.com/nurmatthias/100DaysOfCode/tree/main/day13)
