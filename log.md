@@ -131,3 +131,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Ok, das war unnötig, aber ok. Der Debugger von VS Code ist ganz gut.
 
 **Link zur Arbeit:** [Tag 13](https://github.com/nurmatthias/100DaysOfCode/tree/main/day13)
+
+
+&nbsp;
+### Tag 14: 05. März 2021
+
+**Heutiger Fortschritt:** eigenes Projekt
+
+**Gedanken:** Es wird langsam. Wieder ein Projekt selbständig abgeschlossen. Würde sagen, die Grundlagen sitzen.
+
+**Link zur Arbeit:** [Tag 14](https://github.com/nurmatthias/100DaysOfCode/tree/main/day14)
