@@ -141,3 +141,14 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 **Gedanken:** Es wird langsam. Wieder ein Projekt selbständig abgeschlossen. Würde sagen, die Grundlagen sitzen.
 
 **Link zur Arbeit:** [Tag 14](https://github.com/nurmatthias/100DaysOfCode/tree/main/day14)
+
+
+&nbsp;
+### Tag 15: 06. März 2021
+
+**Heutiger Fortschritt:** PyCharm 
+
+**Gedanken:** Das Projekt von heute war eigentlich dazu gedacht PyCharm kennen zu lernen. Ich habe es genuttz um noch mal etwas zu Skripten, ist immer noch ungewohnt ohne Objekte und viel Overhead zu coden.
+In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Code.
+
+**Link zur Arbeit:** [Tag 15](https://github.com/nurmatthias/100DaysOfCode/tree/main/day15)
