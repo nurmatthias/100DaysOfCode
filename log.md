@@ -152,3 +152,13 @@ Es hat gehofen die einzelnen zerlegt bekommen zu haben. Alleine hätte ich vermu
 In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Code.
 
 **Link zur Arbeit:** [Tag 15](https://github.com/nurmatthias/100DaysOfCode/tree/main/day15)
+
+
+&nbsp;
+### Tag 16: 07. März 2021
+
+**Heutiger Fortschritt:** OOP 
+
+**Gedanken:** Ok, das war nur die Basis, noch nichts neues dabei, aber ich hab dann endlich die saubere Trennung zwischen Funktion und Methode gelernt :)
+
+**Link zur Arbeit:** [Tag 16](https://github.com/nurmatthias/100DaysOfCode/tree/main/day16)
