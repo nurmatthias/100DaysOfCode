@@ -162,3 +162,13 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 **Gedanken:** Ok, das war nur die Basis, noch nichts neues dabei, aber ich hab dann endlich die saubere Trennung zwischen Funktion und Methode gelernt :)
 
 **Link zur Arbeit:** [Tag 16](https://github.com/nurmatthias/100DaysOfCode/tree/main/day16)
+
+
+&nbsp;
+### Tag 17: 08. März 2021
+
+**Heutiger Fortschritt:** weiter mit OOP 
+
+**Gedanken:** Mich irritiert das Attribute nicht im Kopf der Klasse definiert werden sondern im Konstruktor, oder auch einfach so frei im aufrufenden Code. Das gefällt mir so nicht. Muss mich damit noch etwas beschäftigen ob man Klassen auch abgesichert bekommt. Andererseits, vielleicht muss das auch nicht. Dafür brauch ich wohl noch ein paar Tage.
+
+**Link zur Arbeit:** [Tag 16](https://github.com/nurmatthias/100DaysOfCode/tree/main/day16)
