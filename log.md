@@ -171,4 +171,14 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 
 **Gedanken:** Mich irritiert das Attribute nicht im Kopf der Klasse definiert werden sondern im Konstruktor, oder auch einfach so frei im aufrufenden Code. Das gefällt mir so nicht. Muss mich damit noch etwas beschäftigen ob man Klassen auch abgesichert bekommt. Andererseits, vielleicht muss das auch nicht. Dafür brauch ich wohl noch ein paar Tage.
 
-**Link zur Arbeit:** [Tag 16](https://github.com/nurmatthias/100DaysOfCode/tree/main/day16)
+**Link zur Arbeit:** [Tag 17](https://github.com/nurmatthias/100DaysOfCode/tree/main/day17)
+
+
+&nbsp;
+### Tag 18: 09. März 2021
+
+**Heutiger Fortschritt:** turtles 
+
+**Gedanken:** Nette Spielerei um Algorithmen zu üben
+
+**Link zur Arbeit:** [Tag 18](https://github.com/nurmatthias/100DaysOfCode/tree/main/day18)
