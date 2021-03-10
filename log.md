@@ -182,3 +182,13 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 **Gedanken:** Nette Spielerei um Algorithmen zu üben
 
 **Link zur Arbeit:** [Tag 18](https://github.com/nurmatthias/100DaysOfCode/tree/main/day18)
+
+
+&nbsp;
+### Tag 19: 10. März 2021
+
+**Heutiger Fortschritt:** HigherOrderFunctions und OOP 
+
+**Gedanken:** Kurze Einführung in HigherOrderFunktions. Die gefallen mir tatsächlich besser als Lambdas in Java. Irgendwie ist es klarer was wohin kommt und wie es geschrieben werden muss.
+
+**Link zur Arbeit:** [Tag 19](https://github.com/nurmatthias/100DaysOfCode/tree/main/day19)
