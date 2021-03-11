@@ -199,6 +199,6 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 
 **Heutiger Fortschritt:** Snake 
 
-**Gedanken:** Kurze Einführung in HigherOrderFunktions. Die gefallen mir tatsächlich besser als Lambdas in Java. Irgendwie ist es klarer was wohin kommt und wie es geschrieben werden muss.
+**Gedanken:** Ein schönes Projekt um sicherer mit Klassen und Grafik zu werden. Wieder schön zerlegt in einzelne Teilprobleme die einzeln gelösst werden können.
 
 **Link zur Arbeit:** [Tag 20](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
