@@ -192,3 +192,13 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 **Gedanken:** Kurze Einführung in HigherOrderFunktions. Die gefallen mir tatsächlich besser als Lambdas in Java. Irgendwie ist es klarer was wohin kommt und wie es geschrieben werden muss.
 
 **Link zur Arbeit:** [Tag 19](https://github.com/nurmatthias/100DaysOfCode/tree/main/day19)
+
+
+&nbsp;
+### Tag 20: 11. März 2021
+
+**Heutiger Fortschritt:** Snake 
+
+**Gedanken:** Kurze Einführung in HigherOrderFunktions. Die gefallen mir tatsächlich besser als Lambdas in Java. Irgendwie ist es klarer was wohin kommt und wie es geschrieben werden muss.
+
+**Link zur Arbeit:** [Tag 20](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
