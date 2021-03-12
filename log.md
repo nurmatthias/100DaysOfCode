@@ -202,3 +202,13 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 **Gedanken:** Ein schönes Projekt um sicherer mit Klassen und Grafik zu werden. Wieder schön zerlegt in einzelne Teilprobleme die einzeln gelösst werden können.
 
 **Link zur Arbeit:** [Tag 20](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
+
+
+&nbsp;
+### Tag 21: 12. März 2021
+
+**Heutiger Fortschritt:** Snake II
+
+**Gedanken:** Weiter mit Snake und Vererbung. Noch bin ich nicht mit dem Spiel zufrieden, vielleicht baue ich das irgendwann mal weiter.
+
+**Link zur Arbeit:** [Tag 20](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
