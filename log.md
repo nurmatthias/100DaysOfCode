@@ -211,4 +211,15 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 
 **Gedanken:** Weiter mit Snake und Vererbung. Noch bin ich nicht mit dem Spiel zufrieden, vielleicht baue ich das irgendwann mal weiter.
 
-**Link zur Arbeit:** [Tag 20](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
+**Link zur Arbeit:** [Tag 21](https://github.com/nurmatthias/100DaysOfCode/tree/main/day21)
+
+
+&nbsp;
+### Tag 22: 13. März 2021
+
+**Heutiger Fortschritt:** Pong
+
+**Gedanken:** Ein weitere Spiel: Pong
+Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
+
+**Link zur Arbeit:** [Tag 22](https://github.com/nurmatthias/100DaysOfCode/tree/main/day22)
