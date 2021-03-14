@@ -223,3 +223,13 @@ In PyCharm sehe ich im Moment noch keinen Vorteil, bleibe also erstmal by VS Cod
 Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Link zur Arbeit:** [Tag 22](https://github.com/nurmatthias/100DaysOfCode/tree/main/day22)
+
+
+&nbsp;
+### Tag 23: 14. März 2021
+
+**Heutiger Fortschritt:** Frogger
+
+**Gedanken:** Wieder ein Projekt um selbständig daran zu arbeiten. Hat gut funktioniert. Es fehlt noch etwas an Details (Kollisionserkennung usw.) es wird aber besser.
+
+**Link zur Arbeit:** [Tag 23](https://github.com/nurmatthias/100DaysOfCode/tree/main/day23)
