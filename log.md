@@ -233,3 +233,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Wieder ein Projekt um selbständig daran zu arbeiten. Hat gut funktioniert. Es fehlt noch etwas an Details (Kollisionserkennung usw.) es wird aber besser.
 
 **Link zur Arbeit:** [Tag 23](https://github.com/nurmatthias/100DaysOfCode/tree/main/day23)
+
+
+&nbsp;
+### Tag 24: 15. März 2021
+
+**Heutiger Fortschritt:** Dateien
+
+**Gedanken:** Die Datei API ist schön einfach zu benutzen. Nur ein open/read/write und alles schon direkt vorhanden und ohne nervige imports/streams what ever
+
+**Link zur Arbeit:** [Tag 24](https://github.com/nurmatthias/100DaysOfCode/tree/main/day24)
