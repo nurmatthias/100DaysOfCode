@@ -243,3 +243,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Die Datei API ist schön einfach zu benutzen. Nur ein open/read/write und alles schon direkt vorhanden und ohne nervige imports/streams what ever
 
 **Link zur Arbeit:** [Tag 24](https://github.com/nurmatthias/100DaysOfCode/tree/main/day24)
+
+
+&nbsp;
+### Tag 25: 17. März 2021
+
+**Heutiger Fortschritt:** Pandas und CSV
+
+**Gedanken:** Pandas gefällt mir richtig gut! Damit werde ich in Zukunft noch richtig viel machen können.
+
+**Link zur Arbeit:** [Tag 25](https://github.com/nurmatthias/100DaysOfCode/tree/main/day25)
