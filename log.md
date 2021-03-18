@@ -253,3 +253,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Pandas gefällt mir richtig gut! Damit werde ich in Zukunft noch richtig viel machen können.
 
 **Link zur Arbeit:** [Tag 25](https://github.com/nurmatthias/100DaysOfCode/tree/main/day25)
+
+
+&nbsp;
+### Tag 26: 18. März 2021
+
+**Heutiger Fortschritt:** Lists und Dictionaries
+
+**Gedanken:** Ein bisschen quality of life Funktionen mit Listen und Maps. Schöne Syntax um in einer Zeile eine Liste zu durchlaufen, zu filtern und zu modifizieren. Werde mich jetzt wohl jedesmal ärgern wenn ich das in Java machen muss.
+
+**Link zur Arbeit:** [Tag 25](https://github.com/nurmatthias/100DaysOfCode/tree/main/day25)
