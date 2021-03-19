@@ -262,4 +262,14 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Gedanken:** Ein bisschen quality of life Funktionen mit Listen und Maps. Schöne Syntax um in einer Zeile eine Liste zu durchlaufen, zu filtern und zu modifizieren. Werde mich jetzt wohl jedesmal ärgern wenn ich das in Java machen muss.
 
-**Link zur Arbeit:** [Tag 25](https://github.com/nurmatthias/100DaysOfCode/tree/main/day25)
+**Link zur Arbeit:** [Tag 26](https://github.com/nurmatthias/100DaysOfCode/tree/main/day26)
+
+
+&nbsp;
+### Tag 27: 19. März 2021
+
+**Heutiger Fortschritt:** Tkinter
+
+**Gedanken:** Eine weitere Grafikbibliothek. Hiermit lassen sich komploexere Oberflächen bauen. Wirkt recht aufgeräumt. Bis jetzt fehlt mir aber eine gute Möglichkeit den Code besser zu strukturieren.
+
+**Link zur Arbeit:** [Tag 27](https://github.com/nurmatthias/100DaysOfCode/tree/main/day27)
