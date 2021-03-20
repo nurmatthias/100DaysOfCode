@@ -273,3 +273,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Eine weitere Grafikbibliothek. Hiermit lassen sich komploexere Oberflächen bauen. Wirkt recht aufgeräumt. Bis jetzt fehlt mir aber eine gute Möglichkeit den Code besser zu strukturieren.
 
 **Link zur Arbeit:** [Tag 27](https://github.com/nurmatthias/100DaysOfCode/tree/main/day27)
+
+
+&nbsp;
+### Tag 28: 20. März 2021
+
+**Heutiger Fortschritt:** Tkinter II
+
+**Gedanken:** Eine komplette Anwendung! Ja sehr schön. Weiterhin fühlt es sich noch etwas skripty an, ich denke aber, es lasen sich recht leicht eigene Klassen aufsetzen, die vieles von dem Skriptkram kapseln.
+
+**Link zur Arbeit:** [Tag 28](https://github.com/nurmatthias/100DaysOfCode/tree/main/day28)
