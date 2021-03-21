@@ -283,3 +283,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Eine komplette Anwendung! Ja sehr schön. Weiterhin fühlt es sich noch etwas skripty an, ich denke aber, es lasen sich recht leicht eigene Klassen aufsetzen, die vieles von dem Skriptkram kapseln.
 
 **Link zur Arbeit:** [Tag 28](https://github.com/nurmatthias/100DaysOfCode/tree/main/day28)
+
+
+&nbsp;
+### Tag 29: 21. März 2021
+
+**Heutiger Fortschritt:** PasswordManager
+
+**Gedanken:** Mehr tkinter. Eigentlich nur etwas mehr von dem was gestern schon passiert ist. Der PasswordManager könnte vielleicht später nochmal weiter gebaut werden als Projekt, finde die Idee eigentlich ganz gut.
+
+**Link zur Arbeit:** [Tag 29](https://github.com/nurmatthias/100DaysOfCode/tree/main/day29)
