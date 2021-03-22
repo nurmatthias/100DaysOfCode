@@ -293,3 +293,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Mehr tkinter. Eigentlich nur etwas mehr von dem was gestern schon passiert ist. Der PasswordManager könnte vielleicht später nochmal weiter gebaut werden als Projekt, finde die Idee eigentlich ganz gut.
 
 **Link zur Arbeit:** [Tag 29](https://github.com/nurmatthias/100DaysOfCode/tree/main/day29)
+
+
+&nbsp;
+### Tag 30: 22. März 2021
+
+**Heutiger Fortschritt:** Exceptionhandling
+
+**Gedanken:** Das ExceptionHandling in Python ist etwas anders als in Java. Hier wird nur der Code der fehlschlagen kann in try/except gepackt und der normale Programfluss dann in einem separaten Block (else) ausgeführt. Ich denike das macht es einfacher bei verschachtelten try Blöcken, da sich hier am Ende der Methode nicht die CatchBlöcke stapeln und der Code lesbarer? wird.
+
+**Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
