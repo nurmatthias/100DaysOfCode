@@ -302,7 +302,7 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Gedanken:** Das ExceptionHandling in Python ist etwas anders als in Java. Hier wird nur der Code der fehlschlagen kann in try/except gepackt und der normale Programfluss dann in einem separaten Block (else) ausgeführt. Ich denike das macht es einfacher bei verschachtelten try Blöcken, da sich hier am Ende der Methode nicht die CatchBlöcke stapeln und der Code lesbarer? wird.
 
-**Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
+**Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day30)
 
 
 &nbsp;
@@ -310,6 +310,6 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Heutiger Fortschritt:** Project: FlashCards
 
-**Gedanken:** 
+**Gedanken:** Lief gar nicht so schlecht. Alles was bis jetzt dran kam einmal benutzt (tkinter, Pandas usw.). Die Benutzung von Pandas hakelt noch etwas, muss halt häufiger benutzt werden.
 
-**Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
+**Link zur Arbeit:** [Tag 31](https://github.com/nurmatthias/100DaysOfCode/tree/main/day31)
