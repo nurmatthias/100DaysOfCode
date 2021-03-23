@@ -303,3 +303,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Das ExceptionHandling in Python ist etwas anders als in Java. Hier wird nur der Code der fehlschlagen kann in try/except gepackt und der normale Programfluss dann in einem separaten Block (else) ausgeführt. Ich denike das macht es einfacher bei verschachtelten try Blöcken, da sich hier am Ende der Methode nicht die CatchBlöcke stapeln und der Code lesbarer? wird.
 
 **Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
+
+
+&nbsp;
+### Tag 31: 23. März 2021
+
+**Heutiger Fortschritt:** Project: FlashCards
+
+**Gedanken:** 
+
+**Link zur Arbeit:** [Tag 30](https://github.com/nurmatthias/100DaysOfCode/tree/main/day20)
