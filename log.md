@@ -313,3 +313,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Lief gar nicht so schlecht. Alles was bis jetzt dran kam einmal benutzt (tkinter, Pandas usw.). Die Benutzung von Pandas hakelt noch etwas, muss halt häufiger benutzt werden.
 
 **Link zur Arbeit:** [Tag 31](https://github.com/nurmatthias/100DaysOfCode/tree/main/day31)
+
+
+&nbsp;
+### Tag 32: 24. März 2021
+
+**Heutiger Fortschritt:** SMTP/Mail
+
+**Gedanken:** Ich kann Mail :) Schön das Python direkt eine Mail-Bibliothek mit liefert. Was auffällt, dass Kleinigkeiten recht schnell wieder vergessen werden (Pandas Dataframe iteration oder List comprehension), ich hoffe das wird dann nochmal besser
+
+**Link zur Arbeit:** [Tag 32](https://github.com/nurmatthias/100DaysOfCode/tree/main/day32)

@@ -59,7 +59,7 @@ def wrong():
 
 # ---------------------------- UI ------------------------------- #
 app = Tk()
-app.title("PyPa-Manager")
+app.title("Learn some lang...")
 app.config(padx=30, pady=30, bg=BACKGROUND_COLOR)
 #app.resizable(False, False)
 
