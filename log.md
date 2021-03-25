@@ -323,3 +323,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Ich kann Mail :) Schön das Python direkt eine Mail-Bibliothek mit liefert. Was auffällt, dass Kleinigkeiten recht schnell wieder vergessen werden (Pandas Dataframe iteration oder List comprehension), ich hoffe das wird dann nochmal besser
 
 **Link zur Arbeit:** [Tag 32](https://github.com/nurmatthias/100DaysOfCode/tree/main/day32)
+
+
+&nbsp;
+### Tag 33: 24. März 2021
+
+**Heutiger Fortschritt:** APIs
+
+**Gedanken:** Die Request-Bibliothek ist leicht zu benutzen und unterstützt direkt json was es einfach macht zu benutzen. Für spätere Datenprojekte sicherlich eine Bereicherung.
+
+**Link zur Arbeit:** [Tag 33](https://github.com/nurmatthias/100DaysOfCode/tree/main/day33)
