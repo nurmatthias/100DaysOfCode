@@ -326,10 +326,20 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 
 &nbsp;
-### Tag 33: 24. März 2021
+### Tag 33: 25. März 2021
 
 **Heutiger Fortschritt:** APIs
 
 **Gedanken:** Die Request-Bibliothek ist leicht zu benutzen und unterstützt direkt json was es einfach macht zu benutzen. Für spätere Datenprojekte sicherlich eine Bereicherung.
 
 **Link zur Arbeit:** [Tag 33](https://github.com/nurmatthias/100DaysOfCode/tree/main/day33)
+
+
+&nbsp;
+### Tag 34: 26. März 2021
+
+**Heutiger Fortschritt:** APIs 2
+
+**Gedanken:** Nochmal eine Auffrischung für tkinter und Requests. Die App ist ganz nett, hat aber keine neuen Erkenntnisse gebracht.
+
+**Link zur Arbeit:** [Tag 34](https://github.com/nurmatthias/100DaysOfCode/tree/main/day34)
