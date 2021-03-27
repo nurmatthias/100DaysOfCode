@@ -343,3 +343,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Nochmal eine Auffrischung für tkinter und Requests. Die App ist ganz nett, hat aber keine neuen Erkenntnisse gebracht.
 
 **Link zur Arbeit:** [Tag 34](https://github.com/nurmatthias/100DaysOfCode/tree/main/day34)
+
+
+&nbsp;
+### Tag 35: 27. März 2021
+
+**Heutiger Fortschritt:** APIs 3
+
+**Gedanken:** 
+
+**Link zur Arbeit:** [Tag 35](https://github.com/nurmatthias/100DaysOfCode/tree/main/day35)
