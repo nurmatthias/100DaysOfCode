@@ -350,6 +350,6 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Heutiger Fortschritt:** APIs 3
 
-**Gedanken:** 
+**Gedanken:** und weiterhin nur etwas mit APIs rum spielen. OpenWeatherMap scheint aber interessant zu sein, da schau ich dann später mal was sich mit den Daten anfangen lässt.
 
 **Link zur Arbeit:** [Tag 35](https://github.com/nurmatthias/100DaysOfCode/tree/main/day35)
