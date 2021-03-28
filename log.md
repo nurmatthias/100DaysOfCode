@@ -353,3 +353,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** und weiterhin nur etwas mit APIs rum spielen. OpenWeatherMap scheint aber interessant zu sein, da schau ich dann später mal was sich mit den Daten anfangen lässt.
 
 **Link zur Arbeit:** [Tag 35](https://github.com/nurmatthias/100DaysOfCode/tree/main/day35)
+
+
+&nbsp;
+### Tag 36: 28. März 2021
+
+**Heutiger Fortschritt:** APIs 4
+
+**Gedanken:** Ein kleines Projekt zum beobachten von Börsenwerten. Wieder APIs und etwas Pandas. Nutze das ganze als Übung um mit Python besser klar zu kommen.
+
+**Link zur Arbeit:** [Tag 36](https://github.com/nurmatthias/100DaysOfCode/tree/main/day36)
