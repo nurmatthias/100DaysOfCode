@@ -363,3 +363,13 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Ein kleines Projekt zum beobachten von Börsenwerten. Wieder APIs und etwas Pandas. Nutze das ganze als Übung um mit Python besser klar zu kommen.
 
 **Link zur Arbeit:** [Tag 36](https://github.com/nurmatthias/100DaysOfCode/tree/main/day36)
+
+
+&nbsp;
+### Tag 37: 29. März 2021
+
+**Heutiger Fortschritt:** APIs 5
+
+**Gedanken:** 
+
+**Link zur Arbeit:** [Tag 37](https://github.com/nurmatthias/100DaysOfCode/tree/main/day37)
