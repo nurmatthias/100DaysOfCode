@@ -370,6 +370,16 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 **Heutiger Fortschritt:** APIs 5
 
-**Gedanken:** 
+**Gedanken:** Und weitere Übungen für POST/PUT/DELETE. Jetzt reicht es auch langsam!
 
 **Link zur Arbeit:** [Tag 37](https://github.com/nurmatthias/100DaysOfCode/tree/main/day37)
+
+
+&nbsp;
+### Tag 38: 30. März 2021
+
+**Heutiger Fortschritt:** API Übung
+
+**Gedanken:** Wieder eine Übung für APIs... Diesmal schreiben eines GoogleSheets und benutzen einer anderen API. Das demotiviert mich jetzt gerade doch ganz schön, dieser Part geht eindeutig zu lange.
+
+**Link zur Arbeit:** [Tag 38](https://github.com/nurmatthias/100DaysOfCode/tree/main/day38)
