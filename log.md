@@ -383,3 +383,14 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 **Gedanken:** Wieder eine Übung für APIs... Diesmal schreiben eines GoogleSheets und benutzen einer anderen API. Das demotiviert mich jetzt gerade doch ganz schön, dieser Part geht eindeutig zu lange.
 
 **Link zur Arbeit:** [Tag 38](https://github.com/nurmatthias/100DaysOfCode/tree/main/day38)
+
+
+&nbsp;
+### Tag 42: 01. April 2021
+
+**Heutiger Fortschritt:** HTML
+
+**Gedanken:** Habe ein paar Übungen nicht weiter aufgezeichnet. Es ging dabei um weitere Übungen zu APIs.
+Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also auch nicht wirklich spannend. Das was bis jetzt erstellt wurde wird jetzt aber als Grundlage für meine CV-Seite herhalten.
+
+**Link zur Arbeit:** [Tag 42](https://github.com/nurmatthias/100DaysOfCode/tree/main/day42)
