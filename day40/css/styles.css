@@ -1,0 +1,18 @@
+
+body {
+    background-color: #F1F4F7;
+}
+
+
+.separator {
+    width: 5%;
+    border-color: #2C4A6B;
+    border-style: none;
+    border-top-style: dotted;
+}
+
+
+.avatar {
+    border-radius: 100%;
+    width: 30%;
+}

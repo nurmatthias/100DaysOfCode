@@ -386,11 +386,21 @@ Gibt mehr Sicherheit im Umgang mit der Pythonsyntax
 
 
 &nbsp;
-### Tag 42: 01. April 2021
+### Tag 39: 01. April 2021
 
 **Heutiger Fortschritt:** HTML
 
 **Gedanken:** Habe ein paar Übungen nicht weiter aufgezeichnet. Es ging dabei um weitere Übungen zu APIs.
 Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also auch nicht wirklich spannend. Das was bis jetzt erstellt wurde wird jetzt aber als Grundlage für meine CV-Seite herhalten.
 
-**Link zur Arbeit:** [Tag 42](https://github.com/nurmatthias/100DaysOfCode/tree/main/day42)
+**Link zur Arbeit:** [Tag 39](https://github.com/nurmatthias/100DaysOfCode/tree/main/day39)
+
+
+&nbsp;
+### Tag 40: 02. April 2021
+
+**Heutiger Fortschritt:** CSS
+
+**Gedanken:** Kurzer refresh von CSS. War leider nötig, habe schon viel zu lange nichts mehr mit HTML und CSS gemacht. Werde das jetzt auch nutzen um meine CV-Seite fertig zu machen und dann auch zu pflegen. Das ganze lasse ich dann wohl auf uberspace hosten.
+
+**Link zur Arbeit:** [Tag 40](https://github.com/nurmatthias/100DaysOfCode/tree/main/day40)
