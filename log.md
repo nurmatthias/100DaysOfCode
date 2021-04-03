@@ -414,3 +414,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** CSS ist zwar grundsätzlich noch bekannt gewesen, die Auffrischung hat aber gut getan und der Seite auch. Damit werde ich dann wohl meine CV-Seite weiter aufbauen und dann online stellen.
 
 **Link zur Arbeit:** [Tag 41](https://github.com/nurmatthias/100DaysOfCode/tree/main/day41)
+
+
+&nbsp;
+### Tag 42: 03. April 2021
+
+**Heutiger Fortschritt:** CSS II
+
+**Gedanken:** Mehr CSS, zuviel CSS... Viel Positionierung von Elementen usw. Habe auf halben Weg das Interesse verloren. Werde wenn mal Zeit ist an meiner Seite weiter arbeiten, aber jetzt erstmal nicht mehr.
+
+**Link zur Arbeit:** [Tag 42](https://github.com/nurmatthias/100DaysOfCode/tree/main/day42)
