@@ -424,3 +424,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Mehr CSS, zuviel CSS... Viel Positionierung von Elementen usw. Habe auf halben Weg das Interesse verloren. Werde wenn mal Zeit ist an meiner Seite weiter arbeiten, aber jetzt erstmal nicht mehr.
 
 **Link zur Arbeit:** [Tag 42](https://github.com/nurmatthias/100DaysOfCode/tree/main/day42)
+
+
+&nbsp;
+### Tag 43: 04. April 2021
+
+**Heutiger Fortschritt:** BeautifulSoup
+
+**Gedanken:** Das könnte nochmal ganz nützlich werden. Web-Seiten per requests laden und dann mit BeautifulSoup durch parsen und Daten scrapen.
+
+**Link zur Arbeit:** [Tag 43](https://github.com/nurmatthias/100DaysOfCode/tree/main/day43)
