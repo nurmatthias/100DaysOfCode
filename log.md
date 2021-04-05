@@ -434,3 +434,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Das könnte nochmal ganz nützlich werden. Web-Seiten per requests laden und dann mit BeautifulSoup durch parsen und Daten scrapen.
 
 **Link zur Arbeit:** [Tag 43](https://github.com/nurmatthias/100DaysOfCode/tree/main/day43)
+
+
+&nbsp;
+### Tag 44: 05. April 2021
+
+**Heutiger Fortschritt:** Automatische Spotify-Playlist
+
+**Gedanken:** Das ist mal eine nützliche Bibliothek. Steuern von Spotify mit Python wird noch sehr nützlich sein. 
+
+**Link zur Arbeit:** [Tag 44](https://github.com/nurmatthias/100DaysOfCode/tree/main/day44)
