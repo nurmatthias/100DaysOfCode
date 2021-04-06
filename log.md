@@ -444,3 +444,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Das ist mal eine nützliche Bibliothek. Steuern von Spotify mit Python wird noch sehr nützlich sein. 
 
 **Link zur Arbeit:** [Tag 44](https://github.com/nurmatthias/100DaysOfCode/tree/main/day44)
+
+
+&nbsp;
+### Tag 45: 06. April 2021
+
+**Heutiger Fortschritt:** Amazon PriceSpy
+
+**Gedanken:** Krudes Tool um ein Produkt auf Amazon zu tracken und eine Mail zu verschicken. Ist ganz nett, aber eben auch wieder BeautifullSoup.
+
+**Link zur Arbeit:** [Tag 45](https://github.com/nurmatthias/100DaysOfCode/tree/main/day45)
