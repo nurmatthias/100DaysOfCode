@@ -454,3 +454,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Krudes Tool um ein Produkt auf Amazon zu tracken und eine Mail zu verschicken. Ist ganz nett, aber eben auch wieder BeautifullSoup.
 
 **Link zur Arbeit:** [Tag 45](https://github.com/nurmatthias/100DaysOfCode/tree/main/day45)
+
+
+&nbsp;
+### Tag 46: 07. April 2021
+
+**Heutiger Fortschritt:** Flask I
+
+**Gedanken:** Ab jetzt geht es also um Flask. Ok, find ich cool, weil Web-Anwendungen und REST-APIs werde ich immer brauchen. Die Python-Decorator find ich mal cool. Das hätte ich aktuell echt gerne in Java für den Algorithmus.
+
+**Link zur Arbeit:** [Tag 46](https://github.com/nurmatthias/100DaysOfCode/tree/main/day46)
