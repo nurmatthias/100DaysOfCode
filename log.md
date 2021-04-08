@@ -464,3 +464,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Ab jetzt geht es also um Flask. Ok, find ich cool, weil Web-Anwendungen und REST-APIs werde ich immer brauchen. Die Python-Decorator find ich mal cool. Das hätte ich aktuell echt gerne in Java für den Algorithmus.
 
 **Link zur Arbeit:** [Tag 46](https://github.com/nurmatthias/100DaysOfCode/tree/main/day46)
+
+
+&nbsp;
+### Tag 47: 08. April 2021
+
+**Heutiger Fortschritt:** Flask II
+
+**Gedanken:** Decorator mit Argumenten. Damit wird es dann doch etwas komplizierter, da man den Decorator nochmal in den Decorator einpacken muss und dann über Magie der Wert... Ach egal, funktioniert halt.
+
+**Link zur Arbeit:** [Tag 47](https://github.com/nurmatthias/100DaysOfCode/tree/main/day47)
