@@ -474,3 +474,23 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Decorator mit Argumenten. Damit wird es dann doch etwas komplizierter, da man den Decorator nochmal in den Decorator einpacken muss und dann über Magie der Wert... Ach egal, funktioniert halt.
 
 **Link zur Arbeit:** [Tag 47](https://github.com/nurmatthias/100DaysOfCode/tree/main/day47)
+
+
+&nbsp;
+### Tag 48: 09. April 2021
+
+**Heutiger Fortschritt:** Flask III
+
+**Gedanken:** Ging um den Import von statische HTML. Flask ist recht aufgeräumt was das angeht, macht es übersichtlich und die Templates lassen sich einfach finden.
+
+**Link zur Arbeit:** [Tag 48](https://github.com/nurmatthias/100DaysOfCode/tree/main/day48)
+
+
+&nbsp;
+### Tag 49: 10. April 2021
+
+**Heutiger Fortschritt:** Flask IV
+
+**Gedanken:** 
+
+**Link zur Arbeit:** [Tag 49](https://github.com/nurmatthias/100DaysOfCode/tree/main/day49)
