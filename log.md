@@ -491,6 +491,6 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 
 **Heutiger Fortschritt:** Flask IV
 
-**Gedanken:** 
+**Gedanken:** Bauen von etwas komplexeren Anwendungen (Blog) mit Jinja. Ist ähnlich scriptlets, fühlt sich etwas hackelig an.
 
 **Link zur Arbeit:** [Tag 49](https://github.com/nurmatthias/100DaysOfCode/tree/main/day49)
