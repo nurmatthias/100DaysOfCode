@@ -494,3 +494,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Bauen von etwas komplexeren Anwendungen (Blog) mit Jinja. Ist ähnlich scriptlets, fühlt sich etwas hackelig an.
 
 **Link zur Arbeit:** [Tag 49](https://github.com/nurmatthias/100DaysOfCode/tree/main/day49)
+
+
+&nbsp;
+### Tag 50: 11. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse I
+
+**Gedanken:** Habe einige Lektionen übersprungen. Web-Entwicklung ist jetzt im Moment nicht so interessant. Mache jetzt mit Datenanalyse (wirkliche Grundlagen) weiter und schaue dann wenn nötig nochmal in die anderen Lektionen rein.
+
+**Link zur Arbeit:** [Tag 50](https://github.com/nurmatthias/100DaysOfCode/tree/main/day50)
