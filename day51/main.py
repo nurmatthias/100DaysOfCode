@@ -11,10 +11,11 @@ print(num_of_posts)
 num_of_posts_month = df.groupby(["TAG"]).count()
 print(num_of_posts_month)
 
-reshaped_df = df.pivot(index="DATE", columns=["TAG"], values=["POSTS"]).fillna(0)
+reshaped_df = df.pivot_table(index='DATE', columns="TAG", values="POSTS",
+               aggfunc='sum', fill_value=0, margins=True).sort_values('All', ascending=False, axis=1).drop('All')
 nan_values = reshaped_df.isna().values.any()
-print(reshaped_df.head())
-print(reshaped_df.columns)
+print(reshaped_df.tail())
+
 
 
 plt.figure(figsize=(16,10))
@@ -22,21 +23,21 @@ plt.ylabel("Anzahl Posts", fontsize=14)
 plt.ylim(0, 35000)
 plt.xlabel("Jahr", fontsize=14)
 
-for column in reshaped_df.columns:
-    plt.plot(reshaped_df.index, reshaped_df[column], linewidth=3, label=reshaped_df[column].name[1])
+for column in reshaped_df.columns[1:11]:
+    plt.plot(reshaped_df.index, reshaped_df[column], linewidth=3, label=reshaped_df[column].name)
 plt.legend(fontsize=16) 
 
-plt.show()
+#plt.show()
 
 
-roll_df = reshaped_df.rolling(window=12).mean()
+roll_df = reshaped_df.rolling(window=6).mean()
 plt.figure(figsize=(16,10))
-plt.ylabel("Anzahl Posts", fontsize=14)
+plt.ylabel("Anzahl Posts/Sprache", fontsize=14)
 plt.ylim(0, 35000)
 plt.xlabel("Jahr", fontsize=14)
 
-for column in roll_df.columns:
-    plt.plot(roll_df.index, roll_df[column], linewidth=3, label=roll_df[column].name[1])
+for column in roll_df.columns[1:11]:
+    plt.plot(roll_df.index, roll_df[column], linewidth=3, label=roll_df[column].name)
 plt.legend(fontsize=16) 
 
 plt.show()
