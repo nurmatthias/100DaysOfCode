@@ -504,3 +504,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** Habe einige Lektionen übersprungen. Web-Entwicklung ist jetzt im Moment nicht so interessant. Mache jetzt mit Datenanalyse (wirkliche Grundlagen) weiter und schaue dann wenn nötig nochmal in die anderen Lektionen rein.
 
 **Link zur Arbeit:** [Tag 50](https://github.com/nurmatthias/100DaysOfCode/tree/main/day50)
+
+
+&nbsp;
+### Tag 51: 12. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse II
+
+**Gedanken:** GroupBy Pivot und Matplotlib. Damit wurden die ersten Charts gezeichnet und Stackoverflow Daten analysiert. So langsam baut sich das auf.
+
+**Link zur Arbeit:** [Tag 51](https://github.com/nurmatthias/100DaysOfCode/tree/main/day51)
