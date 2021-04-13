@@ -514,3 +514,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** GroupBy Pivot und Matplotlib. Damit wurden die ersten Charts gezeichnet und Stackoverflow Daten analysiert. So langsam baut sich das auf.
 
 **Link zur Arbeit:** [Tag 51](https://github.com/nurmatthias/100DaysOfCode/tree/main/day51)
+
+
+&nbsp;
+### Tag 52: 13. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse III
+
+**Gedanken:** GroupBy und Aggragate, außerdem scatter und bar Charts. Ich finde es noch schwierig zu bestimmen wann welche Funktionen auf die Daten angewand werden sollen. Das ist alles noch etwas praxisfern.
+
+**Link zur Arbeit:** [Tag 52](https://github.com/nurmatthias/100DaysOfCode/tree/main/day52)
