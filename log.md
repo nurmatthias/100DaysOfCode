@@ -524,3 +524,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** GroupBy und Aggragate, außerdem scatter und bar Charts. Ich finde es noch schwierig zu bestimmen wann welche Funktionen auf die Daten angewand werden sollen. Das ist alles noch etwas praxisfern.
 
 **Link zur Arbeit:** [Tag 52](https://github.com/nurmatthias/100DaysOfCode/tree/main/day52)
+
+
+&nbsp;
+### Tag 53: 16. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse IV
+
+**Gedanken:** irgendwie was weiter gemacht. Die Lektion aber nicht ganz durch gearbeitet. Irgendwie fehlt mir im Moment die Motivation dazu. Vielleicht mach ich die Tage einfach 2 Lektionen oder so. Was nervt, dass keine Videos zu den Themen mehr existieren sondern nur noch Texte, wirkt dadurch irgendwie billig.
+
+**Link zur Arbeit:** [Tag 53](https://github.com/nurmatthias/100DaysOfCode/tree/main/day53)
