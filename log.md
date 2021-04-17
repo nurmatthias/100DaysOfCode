@@ -534,3 +534,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** irgendwie was weiter gemacht. Die Lektion aber nicht ganz durch gearbeitet. Irgendwie fehlt mir im Moment die Motivation dazu. Vielleicht mach ich die Tage einfach 2 Lektionen oder so. Was nervt, dass keine Videos zu den Themen mehr existieren sondern nur noch Texte, wirkt dadurch irgendwie billig.
 
 **Link zur Arbeit:** [Tag 53](https://github.com/nurmatthias/100DaysOfCode/tree/main/day53)
+
+
+&nbsp;
+### Tag 54: 17. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse V
+
+**Gedanken:** die lektion von gestern noch zu Ende gebracht. Irgendwie komme ich da noch nicht so rein. Das Thema Matplot und Pandas fühlt sich an wie eine Wand die ich nicht durchbrechen kann. Ich hoffe das legt sich noch. Irgendwie waren die Videos wirklich motivierender.
+
+**Link zur Arbeit:** [Tag 54](https://github.com/nurmatthias/100DaysOfCode/tree/main/day54)
