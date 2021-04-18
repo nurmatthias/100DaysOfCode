@@ -544,3 +544,13 @@ Die letzten zwei Tage des Kurses ging es nur um die Grundlagen von HTML, also au
 **Gedanken:** die lektion von gestern noch zu Ende gebracht. Irgendwie komme ich da noch nicht so rein. Das Thema Matplot und Pandas fühlt sich an wie eine Wand die ich nicht durchbrechen kann. Ich hoffe das legt sich noch. Irgendwie waren die Videos wirklich motivierender.
 
 **Link zur Arbeit:** [Tag 54](https://github.com/nurmatthias/100DaysOfCode/tree/main/day54)
+
+
+&nbsp;
+### Tag 55: 18. April 2021
+
+**Heutiger Fortschritt:** Datenanalyse VI
+
+**Gedanken:** Mehr plotting mit plotly. Plotly ist etwas übersichtlicher und sprechender als Matplotlib.
+
+**Link zur Arbeit:** [Tag 55](https://github.com/nurmatthias/100DaysOfCode/tree/main/day55)
